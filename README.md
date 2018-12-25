@@ -13,4 +13,4 @@ App_EventRegistry is a JavaFX application that allows guests to select items the
 * Add a specific serial number to each selection list. 
 * Add a menu bar at the top for options like the search for receipts, and display help page on how to use the application.
 ## Links
-* [LinkedIn Profile](https://www.linkedin.com/in/singhperry01/),
+* [LinkedIn Profile](https://www.linkedin.com/in/singhperry01/)
